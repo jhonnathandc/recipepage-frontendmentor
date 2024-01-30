@@ -1,11 +1,11 @@
-# 3-column Preview Card Component - FrontEnd Mentor
+# Recipe Page - FrontEnd Mentor
 
 This project is part of the challenges of [FrontEnd Mentor](https://www.frontendmentor.io/).
 
 [Access the deploy here.](https://nftpreview-frontendmentor.vercel.app/)
 <br>
 <br>
-[Access the challenge on the FrontEnd Mentor here.](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
+[Access the challenge on the FrontEnd Mentor here.](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
 
 ## Demonstration
 
