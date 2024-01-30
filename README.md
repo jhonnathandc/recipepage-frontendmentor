@@ -5,11 +5,10 @@ This project is part of the challenges of [FrontEnd Mentor](https://www.frontend
 [Access the deploy here.](https://nftpreview-frontendmentor.vercel.app/)
 <br>
 <br>
-[Access the challenge on the FrontEnd Mentor here.](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
+[Access the challenge on the FrontEnd Mentor here.](https://recipepage-frontendmentor.vercel.app/)
 
 ## Demonstration
-
-![Wireframe - 1](https://user-images.githubusercontent.com/82620787/235288053-9179feed-ce48-4712-96ce-f4a5fb2d3bfb.png)
+![Desktop + Mobile - 5](https://github.com/jhonnathandc/recipepage-frontendmentor/assets/82620787/e47f98ea-8753-4eea-ae86-7cf97a64a2a0)
 
 ## More Informations
 
